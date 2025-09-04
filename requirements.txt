@@ -1,0 +1,22 @@
+# Core
+streamlit>=1.38.0
+pandas>=2.2.2
+numpy>=1.26.4
+
+# F1 & Data
+fastf1>=3.4.0
+requests>=2.32.3
+
+# Plotting & Visualization
+matplotlib>=3.9.2
+seaborn>=0.13.2
+networkx>=3.3
+
+# NLP & Text Processing
+nltk>=3.9.1
+textblob>=0.18.0
+scikit-learn>=1.5.1
+
+# Utilities
+python-dateutil>=2.9.0
+tqdm>=4.66.5
