@@ -126,6 +126,4 @@ If you use this repository, please cite as:
 
 > Rohita G. *Algorithmic Silence: Computational Analysis of Hamlet.* 2025.
 
----
 
-Would you like me to also make a **shorter “executive summary” version** (1-paragraph + quick-start only) for GitHub visitors who don’t want to read the full README?
